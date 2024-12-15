@@ -1,0 +1,6 @@
+Flask==3.0.1
+matplotlib==3.8.2
+plotly==5.17.0
+pyodbc==4.0.39
+seaborn==0.13.2
+Werkzeug==3.0.1
